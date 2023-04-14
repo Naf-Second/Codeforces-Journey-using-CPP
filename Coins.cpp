@@ -10,7 +10,7 @@ int main()
     cin >> t;
     while(t--)
     {
-        int n,k;
+       long long int n,k;
         cin >> n >> k;
         int x=0,y=0;
         int z = 2*x+k*y;
